@@ -1,0 +1,12 @@
+comand for detect:
+
+
+
+python yolo.py --image images/22.jpg --yolo yolo-coco
+
+
+
+
+python yolo_video.py --input videos/finevideo.mp4 --output output/finevideo111.avi --yolo yolo-coco
+
+put the cfg, weight and names file in python script.
